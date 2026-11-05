@@ -10,7 +10,7 @@ ThinkWithOps teaches AI and ML engineering concept-first and mechanism-focused: 
 
 ## Purpose of This Repository
 
-This repository is the written companion to the video curriculum. It lets you see the whole path before you start, choose where to begin, and track what you have covered. Each season has an overview and a full roadmap listing every module, episode, topic and subtopic. As episodes are published, their practical code is added next to the roadmap: runnable teaching examples with a README that says how to run them. Practical materials so far cover Season 1, episodes S01E01–S01E05, including optional practice exercises and solutions.
+This repository is the written companion to the video curriculum. It lets you see the whole path before you start, choose where to begin, and track what you have covered. Each season has an overview and a full roadmap listing every module, episode, topic and subtopic. As episodes are published, their practical code is added next to the roadmap: runnable teaching examples with a README that says how to run them. Practical materials published so far: Season 1, episode S01E01, including an optional practice exercise and solution. More are added as each episode is released.
 
 ## Curriculum at a Glance
 

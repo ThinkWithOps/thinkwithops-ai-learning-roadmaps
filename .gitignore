@@ -1,3 +1,9 @@
 .claude/
 __pycache__/
 *.pyc
+
+# Unpublished practical materials (S01E02-S01E05): kept locally until their videos are released
+season-01-python-for-ai-ml/module-01-python-foundations-for-ml-engineers/02-data-structures-iteration-and-functions-for-ml-code/
+season-01-python-for-ai-ml/module-01-python-foundations-for-ml-engineers/03-object-oriented-python-and-dataclasses-for-ml-components/
+season-01-python-for-ai-ml/module-01-python-foundations-for-ml-engineers/04-errors-context-managers-logging-and-debugging/
+season-01-python-for-ai-ml/module-01-python-foundations-for-ml-engineers/05-type-hints-pydantic-and-data-validation/
